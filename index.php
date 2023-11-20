@@ -9,7 +9,7 @@
         <legend> Inicio </legend>
         <form name="entrada">
 
-            <!-- Botão para login de administrador -->
+            <!-- Botão para login de administrador  -->
             <a href="loginADM.php"><button type="button" name="LoginADM"> Login de Administrador </button> </a>
 
             <!-- Botão para login de usuário -->
