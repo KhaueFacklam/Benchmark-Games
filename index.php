@@ -6,7 +6,7 @@
 
 <body>
     <fieldset>
-        <legend> Inícioo </legend>
+        <legend> Iníciooo </legend>
         <form name="entrada">
             <!-- Botão para login de administrador  -->
             <a href="loginADM.php"><button type="button" name="LoginADM"> Login de Administrador </button> </a>
